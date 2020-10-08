@@ -1,0 +1,18 @@
+[
+    {
+        "title":"My Project",
+        "slug":"project-1",
+        "url":"https://example.com",
+        "image":"./images/gatsby-astronaut.png",
+        "description":"Practice Gatsby"
+    },
+    {
+        "title":"My Project 2",
+        "slug":"project-2",
+        "url":"https://example.org",
+        "image":"./images/gatsby-icon.png",
+        "description":"Practice Gatsby 2"
+
+    }
+
+]
